@@ -15,6 +15,7 @@
 		1A605E72246D721800713AA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A605E70246D721800713AA0 /* LaunchScreen.storyboard */; };
 		1A605E7D246D721800713AA0 /* SwiftUI_ExamplesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A605E7C246D721800713AA0 /* SwiftUI_ExamplesUITests.swift */; };
 		1A605E89246D728300713AA0 /* ObserveClassFromView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A605E88246D728300713AA0 /* ObserveClassFromView.swift */; };
+		1ABE8E33246DDD280026C112 /* ShowingAndHidingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ABE8E32246DDD280026C112 /* ShowingAndHidingViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		1A605E7C246D721800713AA0 /* SwiftUI_ExamplesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ExamplesUITests.swift; sourceTree = "<group>"; };
 		1A605E7E246D721800713AA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A605E88246D728300713AA0 /* ObserveClassFromView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObserveClassFromView.swift; sourceTree = "<group>"; };
+		1ABE8E32246DDD280026C112 /* ShowingAndHidingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowingAndHidingViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				1A605E88246D728300713AA0 /* ObserveClassFromView.swift */,
+				1ABE8E32246DDD280026C112 /* ShowingAndHidingViews.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -222,6 +225,7 @@
 				1A605E89246D728300713AA0 /* ObserveClassFromView.swift in Sources */,
 				1A605E66246D721600713AA0 /* AppDelegate.swift in Sources */,
 				1A605E68246D721600713AA0 /* SceneDelegate.swift in Sources */,
+				1ABE8E33246DDD280026C112 /* ShowingAndHidingViews.swift in Sources */,
 				1A605E6A246D721600713AA0 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
