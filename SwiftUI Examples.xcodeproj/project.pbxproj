@@ -81,7 +81,7 @@
 		1A605E64246D721600713AA0 /* SwiftUI Examples */ = {
 			isa = PBXGroup;
 			children = (
-				1A605E87246D726100713AA0 /* New Group */,
+				1A605E87246D726100713AA0 /* Examples */,
 				1A605E65246D721600713AA0 /* AppDelegate.swift */,
 				1A605E67246D721600713AA0 /* SceneDelegate.swift */,
 				1A605E69246D721600713AA0 /* ContentView.swift */,
@@ -110,12 +110,12 @@
 			path = "SwiftUI ExamplesUITests";
 			sourceTree = "<group>";
 		};
-		1A605E87246D726100713AA0 /* New Group */ = {
+		1A605E87246D726100713AA0 /* Examples */ = {
 			isa = PBXGroup;
 			children = (
 				1A605E88246D728300713AA0 /* ObserveClassFromView.swift */,
 			);
-			path = "New Group";
+			path = Examples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
