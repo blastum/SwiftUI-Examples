@@ -14,6 +14,7 @@
 		1A605E6F246D721800713AA0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A605E6E246D721800713AA0 /* Preview Assets.xcassets */; };
 		1A605E72246D721800713AA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A605E70246D721800713AA0 /* LaunchScreen.storyboard */; };
 		1A605E7D246D721800713AA0 /* SwiftUI_ExamplesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A605E7C246D721800713AA0 /* SwiftUI_ExamplesUITests.swift */; };
+		1A605E89246D728300713AA0 /* ObserveClassFromView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A605E88246D728300713AA0 /* ObserveClassFromView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		1A605E78246D721800713AA0 /* SwiftUI ExamplesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI ExamplesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A605E7C246D721800713AA0 /* SwiftUI_ExamplesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ExamplesUITests.swift; sourceTree = "<group>"; };
 		1A605E7E246D721800713AA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A605E88246D728300713AA0 /* ObserveClassFromView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObserveClassFromView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		1A605E64246D721600713AA0 /* SwiftUI Examples */ = {
 			isa = PBXGroup;
 			children = (
+				1A605E87246D726100713AA0 /* New Group */,
 				1A605E65246D721600713AA0 /* AppDelegate.swift */,
 				1A605E67246D721600713AA0 /* SceneDelegate.swift */,
 				1A605E69246D721600713AA0 /* ContentView.swift */,
@@ -105,6 +108,14 @@
 				1A605E7E246D721800713AA0 /* Info.plist */,
 			);
 			path = "SwiftUI ExamplesUITests";
+			sourceTree = "<group>";
+		};
+		1A605E87246D726100713AA0 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				1A605E88246D728300713AA0 /* ObserveClassFromView.swift */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -208,6 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A605E89246D728300713AA0 /* ObserveClassFromView.swift in Sources */,
 				1A605E66246D721600713AA0 /* AppDelegate.swift in Sources */,
 				1A605E68246D721600713AA0 /* SceneDelegate.swift in Sources */,
 				1A605E6A246D721600713AA0 /* ContentView.swift in Sources */,
