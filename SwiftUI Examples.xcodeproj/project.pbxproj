@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A3C4CC3247400DB00F5B453 /* MakingViewsSameSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3C4CC2247400DB00F5B453 /* MakingViewsSameSize.swift */; };
 		1A605E66246D721600713AA0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A605E65246D721600713AA0 /* AppDelegate.swift */; };
 		1A605E68246D721600713AA0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A605E67246D721600713AA0 /* SceneDelegate.swift */; };
 		1A605E6A246D721600713AA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A605E69246D721600713AA0 /* ContentView.swift */; };
@@ -29,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A3C4CC2247400DB00F5B453 /* MakingViewsSameSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingViewsSameSize.swift; sourceTree = "<group>"; };
 		1A605E62246D721600713AA0 /* SwiftUI Examples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Examples.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A605E65246D721600713AA0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1A605E67246D721600713AA0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 			children = (
 				1A605E88246D728300713AA0 /* ObserveClassFromView.swift */,
 				1ABE8E32246DDD280026C112 /* ShowingAndHidingViews.swift */,
+				1A3C4CC2247400DB00F5B453 /* MakingViewsSameSize.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 			files = (
 				1A605E89246D728300713AA0 /* ObserveClassFromView.swift in Sources */,
 				1A605E66246D721600713AA0 /* AppDelegate.swift in Sources */,
+				1A3C4CC3247400DB00F5B453 /* MakingViewsSameSize.swift in Sources */,
 				1A605E68246D721600713AA0 /* SceneDelegate.swift in Sources */,
 				1ABE8E33246DDD280026C112 /* ShowingAndHidingViews.swift in Sources */,
 				1A605E6A246D721600713AA0 /* ContentView.swift in Sources */,
